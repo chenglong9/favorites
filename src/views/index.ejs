@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>网址导航</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>网址导航</h1>
+
+        <div class="categories">
+            <% categories.forEach(category => { %>
+                <div class="category">
+                    <h2><%= category.name %></h2>
+                    <div class="sites">
+                        <% category.sites.forEach(site => { %>
+                            <a href="<%= site.url %>" target="_blank" class="site-card">
+                                <div class="site-info">
+                                    <h3><%= site.title %></h3>
+                                </div>
+                            </a>
+                        <% }); %>
+                    </div>
+                </div>
+            <% }); %>
+        </div>
+    </div>
+</body>
+</html>

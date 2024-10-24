@@ -1,0 +1,881 @@
+{
+  "categories": [
+    {
+      "name": "官网",
+      "sites": [
+        {
+          "url": "https://dida365.com/",
+          "description": "任务管理与时间规划应用"
+        },
+        {
+          "url": "https://www.zerotier.com/download/",
+          "description": "ZeroTier 官网"
+        },
+        {
+          "url": "https://www.jd.com/",
+          "description": "电商平台"
+        },
+        {
+          "url": "https://www.autojs.org/",
+          "description": "Auto.js 官网"
+        },
+        {
+          "url": "https://www.zhihu.com/hot",
+          "description": "知乎热门页面"
+        },
+        {
+          "url": "https://git.oschina.net/chenglong9/gerenjizhangapp",
+          "description": "个人记账应用仓库"
+        },
+        {
+          "url": "https://stackoverflow.com/",
+          "description": "开发人员社区"
+        },
+        {
+          "url": "https://www.runoob.com/python3/python3-list.html",
+          "description": "Python3 列表教程"
+        },
+        {
+          "url": "https://www.ixigua.com/search/%E5%8D%8E%E5%86%9C%E5%85%84%E5%BC%9F?typeIndex=0",
+          "description": "西瓜视频搜索页"
+        },
+        {
+          "url": "http://www.ixueshu.com/",
+          "description": "学术资源下载网站"
+        },
+        {
+          "url": "https://git.oschina.net/chenglong6",
+          "description": "gitee 用户页面"
+        },
+        {
+          "url": "http://www.csdn.net/?ref=toolbar",
+          "description": "CSDN 首页"
+        },
+        {
+          "url": "http://www.lintcode.com/problem/",
+          "description": "LintCode 题目页面"
+        },
+        {
+          "url": "http://www.52pojie.cn/forum.php",
+          "description": "吾爱破解论坛"
+        },
+        {
+          "url": "https://www.nowcoder.com/contestRoom?mutiTagIds=639",
+          "description": "牛客网笔试练习页面"
+        },
+        {
+          "url": "https://www.itsk.com/forum.php?mod=viewthread&tid=397875",
+          "description": "优启通讨论页面"
+        },
+        {
+          "url": "https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux",
+          "description": "Docker Explore"
+        },
+        {
+          "url": "https://dashboard.cpolar.com/status",
+          "description": "cpolar 极点云状态页面"
+        },
+        {
+          "url": "https://colab.research.google.com/",
+          "description": "Colaboratory"
+        },
+        {
+          "url": "https://www.taobao.com/",
+          "description": "淘宝网"
+        },
+        {
+          "url": "https://www.aliyundrive.com/drive",
+          "description": "阿里云盘"
+        },
+        {
+          "url": "https://www.nowcoder.com/",
+          "description": "牛客网首页"
+        },
+        {
+          "url": "https://tool.browser.qq.com/",
+          "description": "腾讯在线工具箱平台"
+        },
+        {
+          "url": "https://www.kanxue.com/",
+          "description": "看雪学院"
+        },
+        {
+          "url": "https://snailclimb.top/JavaGuide/#/?id=java",
+          "description": "JavaGuide"
+        },
+        {
+          "url": "https://izhongchou.taobao.com/index.htm",
+          "description": "淘宝众筹"
+        },
+        {
+          "url": "https://start.aliyun.com/bootstrap.html?spm=a2ck6.17690074.0.0.503c2e7dwjvGd1",
+          "description": "Aliyun Java Initializr"
+        },
+        {
+          "url": "https://azure.microsoft.com/zh-cn/products/cognitive-services/text-to-speech/#features",
+          "description": "微软文本转语音服务"
+        },
+        {
+          "url": "https://start.spring.io/",
+          "description": "Spring Initializr"
+        },
+        {
+          "url": "https://start.aliyun.com/",
+          "description": "Cloud Native App Initializer"
+        }
+      ]
+    },
+    {
+      "name": "后端",
+      "sites": [
+        {
+          "url": "https://www.confluent.io/",
+          "description": "企业 Kafka 与流媒体平台"
+        },
+        {
+          "url": "https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/index.html",
+          "description": "Java REST 客户端文档"
+        },
+        {
+          "url": "https://juejin.im/post/5d0c9c606fb9a07ed911ca2a",
+          "description": "Spring Boot 应用部署教程"
+        },
+        {
+          "url": "http://kafka.apache.org/documentation.html#connect",
+          "description": "Apache Kafka 文档"
+        },
+        {
+          "url": "https://neo4j.com/docs/",
+          "description": "Neo4j 文档"
+        },
+        {
+          "url": "https://docs.oracle.com/javase/10/",
+          "description": "JDK 10 文档"
+        },
+        {
+          "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+          "description": "LeetCode 动画仓库"
+        },
+        {
+          "url": "https://docs.docker.com/docker-for-windows/",
+          "description": "Docker for Windows 文档"
+        },
+        {
+          "url": "https://spring.io/",
+          "description": "Spring 官网"
+        }
+      ]
+    },
+    {
+      "name": "资源",
+      "sites": [
+        {
+          "url": "https://console.hsk.oray.com/forward",
+          "description": "花生壳内网穿透管理"
+        },
+        {
+          "url": "https://www.iamwawa.cn/daxiaoxie.html",
+          "description": "英文字母大小写转换工具"
+        },
+        {
+          "url": "https://vercel.com/",
+          "description": "前端开发平台"
+        },
+        {
+          "url": "https://blog.csdn.net/boling_cavalry/article/details/100014835",
+          "description": "IntelliJ IDEA 商业版 License 指南"
+        },
+        {
+          "url": "https://rutracker.org/forum/index.php",
+          "description": "资源论坛"
+        },
+        {
+          "url": "https://www.ximalaya.com/zhubo/395121858",
+          "description": "喜马拉雅主播页面"
+        },
+        {
+          "url": "https://mp.weixin.qq.com/s/uSb-9zlWN9vuipmMs0JKZQ",
+          "description": "装系统教程"
+        },
+        {
+          "url": "https://github.com/hiroi-sora/Umi-OCR",
+          "description": "OCR 软件仓库"
+        },
+        {
+          "url": "https://tools.pdf24.org/zh/",
+          "description": "PDF 工具网站"
+        },
+        {
+          "url": "https://sms-activate.org/cn/getNumber",
+          "description": "虚拟手机号码获取平台"
+        },
+        {
+          "url": "https://wizardforcel.gitbooks.io/antlr4-short-course/content/introduction.html",
+          "description": "ANTLR 4 简明教程"
+        },
+        {
+          "url": "http://www.500d.me/cvresume/edit/?itemid=240&resumeId=6618872",
+          "description": "五百丁简历编辑页面"
+        },
+        {
+          "url": "https://legado.cc/",
+          "description": "阅读论坛"
+        },
+        {
+          "url": "https://next.itellyou.cn/Identity/Account/Login?ReturnUrl=%2FOriginal%2F",
+          "description": "原版软件登录页面"
+        },
+        {
+          "url": "https://tool.chinaz.com/regex/",
+          "description": "正则表达式在线测试工具"
+        },
+        {
+          "url": "https://www.woodo.cn/",
+          "description": "吾道幻灯片制作工具"
+        },
+        {
+          "url": "https://bigjpg.com/",
+          "description": "图片无损放大工具"
+        },
+        {
+          "url": "https://juejin.cn/",
+          "description": "掘金社区"
+        },
+        {
+          "url": "https://www.500d.me/",
+          "description": "五百丁简历平台"
+        },
+        {
+          "url": "https://gitee.com/chenglong9/starred",
+          "description": "用户 Star 的仓库"
+        },
+        {
+          "url": "https://cg.163.com/?invite_code=1ENGEF",
+          "description": "网易云游戏平台"
+        },
+        {
+          "url": "https://webstatic.mihoyo.com/app/ys-map-cn/index.html",
+          "description": "提瓦特大地图"
+        },
+        {
+          "url": "https://chenglong9.coding.net/p/forerunner/",
+          "description": "先行者项目页面"
+        },
+        {
+          "url": "https://shimo.im/docs/rK9tRTqTV3KqQvrt/read",
+          "description": "《藏宝图软件质控系统》文档"
+        },
+        {
+          "url": "https://xpdf.cn/pdf-to-word",
+          "description": "PDF 转 Word 工具"
+        },
+        {
+          "url": "https://www.r2coding.com/",
+          "description": "Road 2 Coding"
+        },
+        {
+          "url": "https://sanjin.dev/",
+          "description": "C.TEAM 创意产品平台"
+        },
+        {
+          "url": "https://msdn.itellyou.cn/",
+          "description": "MSDN 系统资源"
+        },
+        {
+          "url": "https://www.hackingloops.com/",
+          "description": "网络安全学习平台"
+        },
+        {
+          "url": "https://www.apifox.cn/web/project/785638",
+          "description": "postman 相关页面"
+        },
+        {
+          "url": "https://wannengrun.com/zh/",
+          "description": "万能命令平台"
+        },
+        {
+          "url": "https://wx.zsxq.com/dweb2/index/topic_detail/118811814512212",
+          "description": "知识星球话题页面"
+        },
+        {
+          "url": "https://tech.meituan.com/",
+          "description": "美团技术团队博客"
+        },
+        {
+          "url": "https://filecr.com/ms-windows?id=1276053628",
+          "description": "破解资源"
+        },
+        {
+          "url": "https://srkd59.yuque.com/login?org=srkd59",
+          "description": "语雀登录页面"
+        },
+        {
+          "url": "https://quickref.cn/",
+          "description": "Quick Reference"
+        },
+        {
+          "url": "https://gitee.com/felord/security-learning/tree/spring-authorization-server/",
+          "description": "Spring Security 学习教程仓库"
+        },
+        {
+          "url": "https://www.timeface.cn/",
+          "description": "文化社交平台"
+        },
+        {
+          "url": "https://kepler.gl/",
+          "description": "数据转地图工具"
+        },
+        {
+          "url": "https://www.ypppt.com/",
+          "description": "PPT 模板下载网站"
+        },
+        {
+          "url": "https://chenglong9.coding.net/user/projects",
+          "description": "腾讯云项目页面"
+        },
+        {
+          "url": "https://www.nowcoder.com/tutorial/94/end",
+          "description": "牛客教程页面"
+        },
+        {
+          "url": "https://hutool.cn/docs/",
+          "description": "Hutool 参考文档"
+        },
+        {
+          "url": "https://www.coderead.cn/home/index.html",
+          "description": "源码阅读网首页"
+        },
+        {
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODU0NTA2Mw==&mid=2247488067&idx=2&sn=bc20c4f449d5cada1335b24ea6210687&chksm=ceabf50bf9dc7c1d8486a0c1954d658778d5c652355560b65543b39aabee3cdce47732198b33&scene=21",
+          "description": "Java 项目分享"
+        },
+        {
+          "url": "https://sa-token.cc/doc/index.html",
+          "description": "Session 会话文档"
+        },
+        {
+          "url": "https://www.mingyantong.com/",
+          "description": "名言通网站"
+        },
+        {
+          "url": "https://store.epicgames.com/zh-CN/free-games?sessionInvalidated=true",
+          "description": "Epic 游戏商城免费游戏页面"
+        },
+        {
+          "url": "https://tv.cctv.com/live/cctv1/?spm=C28340.P2SHI2l84K3W.ExidtyEJcS5K.1",
+          "description": "CCTV-1 综合频道直播"
+        },
+        {
+          "url": "https://www.itlaoqi.com/",
+          "description": "IT 老齐博客"
+        },
+        {
+          "url": "https://github.com/CoderLeixiaoshuai/java-eight-part",
+          "description": "Java 八股文仓库"
+        },
+        {
+          "url": "https://www.allhistory.com/",
+          "description": "全历史网站"
+        },
+        {
+          "url": "https://www.coursera.org/",
+          "description": "在线课程平台"
+        },
+        {
+          "url": "http://hackinglab.cn/",
+          "description": "网络安全实验室"
+        },
+        {
+          "url": "https://www.cnblogs.com/lanyinhao/p/9634742.html",
+          "description": "Python requests 模块详解博客"
+        },
+        {
+          "url": "https://readpaper.com/",
+          "description": "论文阅读社区"
+        },
+        {
+          "url": "https://www.macrozheng.com/",
+          "description": "文档页面"
+        },
+        {
+          "url": "https://easychuan.cn/",
+          "description": "轻松传文件平台"
+        },
+        {
+          "url": "https://www.jm189.cn/a/ocr/#e_banner",
+          "description": "金鸣表格文字识别系统"
+        },
+        {
+          "url": "https://juejin.cn/post/7173581171547176997",
+          "description": "MySQL 数据库宝典文章"
+        },
+        {
+          "url": "https://draft.art/drawing",
+          "description": "Draft 绘画工具"
+        },
+        {
+          "url": "https://flowgpt.com/",
+          "description": "gpt 提示词汇总平台"
+        },
+        {
+          "url": "https://bugstack.cn/",
+          "description": "bugstack 虫洞栈博客"
+        },
+        {
+          "url": "https://www.sqlkiller.com/",
+          "description": "AI 数据分析助手"
+        },
+        {
+          "url": "https://homeofpdf.com/index.html",
+          "description": "PDF 之家首页"
+        },
+        {
+          "url": "https://t.tansuo.tv/",
+          "description": "探索 TV"
+        },
+        {
+          "url": "https://rargb.to/",
+          "description": "RARBG 资源站"
+        },
+        {
+          "url": "https://www.yysub.net/",
+          "description": "人人影视网站"
+        },
+        {
+          "url": "https://springdoc.cn/",
+          "description": "Spring 中文文档"
+        },
+        {
+          "url": "https://www.mona-uranai.com/intro",
+          "description": "莫娜占卜铺首页"
+        },
+        {
+          "url": "https://github.com/alibaba/jvm-sandbox/wiki/MDEV-FIRST-MODULE",
+          "description": "jvm-sandbox 文档"
+        },
+        {
+          "url": "https://arthas.aliyun.com/doc/commands.html",
+          "description": "arthas 命令列表"
+        },
+        {
+          "url": "https://blog.csdn.net/zhougubei/article/details/121247495",
+          "description": "MySQL 死锁问题解决博客"
+        },
+        {
+          "url": "https://binghe.gitcode.host/",
+          "description": "冰河技术网站"
+        },
+        {
+          "url": "https://binghe.gitcode.host/md/microservices/springcloudalibaba/2022-04-02-SpringCloudAlibaba%E4%B8%93%E6%A0%8F%E5%BC%80%E7%AF%87.html",
+          "description": "冰河技术文章页面"
+        },
+        {
+          "url": "https://www.xdgame.com/",
+          "description": "单机游戏试玩及正版推荐平台"
+        },
+        {
+          "url": "https://byrut.org/?ref=biemoyu.com",
+          "description": "游戏下载站"
+        },
+        {
+          "url": "https://laq8aq5ywv.feishu.cn/docx/MwjvdNVP6odfn4xz0b2cB5xJnzb",
+          "description": "飞书云文档"
+        }
+      ]
+    },
+    {
+      "name": "奇怪",
+      "sites": [
+        {
+          "url": "https://dida365.com/webapp/#m/all/matrix",
+          "description": "滴答清单四象限页面"
+        },
+        {
+          "url": "https://zhuanlan.zhihu.com/p/79914478?utm_source=com.tencent.tim&utm_medium=social&utm_oi=819972932938915840",
+          "description": "知乎安全动态文章"
+        },
+        {
+          "url": "https://github.com/zihan987/pose-game-python",
+          "description": "Python 姿势游戏仓库"
+        },
+        {
+          "url": "https://www.bilibili.com/medialist/play/watchlater/BV1e3411A7gS?spm_id_from=444.41.0.0",
+          "description": "B 站视频播放列表"
+        },
+        {
+          "url": "https://developers.google.com/ml-kit",
+          "description": "Google ML Kit 官网"
+        },
+        {
+          "url": "https://juejin.cn/post/7165684702903271437",
+          "description": "MySQL 递归查询文章"
+        },
+        {
+          "url": "https://developer.huawei.com/consumer/cn/doc/development/hiai-Guides/skeleton-detection-0000001051008415",
+          "description": "华为人体骨骼检测文档"
+        },
+        {
+          "url": "https://www.futurepedia.io/?pricing=Free",
+          "description": "AI 工具目录网站"
+        },
+        {
+          "url": "https://www.bilibili.com/video/av2639206/",
+          "description": "英语学习视频"
+        },
+        {
+          "url": "https://blog.csdn.net/zw0Pi8G5C1x/article/details/81277567",
+          "description": "大数据案例博客"
+        },
+        {
+          "url": "https://blog.csdn.net/zashizhi3299/article/details/80870073",
+          "description": "操作系统编写博客"
+        },
+        {
+          "url": "https://zhuanlan.zhihu.com/p/34419351",
+          "description": "一天学会 Python 文章"
+        },
+        {
+          "url": "https://blog.51cto.com/luecsc/1964056",
+          "description": "Spring Boot 核心知识清单博客"
+        },
+        {
+          "url": "https://www.bilibili.com/watchlater/#/av71408100/p1",
+          "description": "Java HashMap 分析视频"
+        },
+        {
+          "url": "https://websec.readthedocs.io/zh/latest/auth/jwt.html#signature",
+          "description": "Web 安全学习笔记"
+        },
+        {
+          "url": "http://10.67.147.35:8887/?token=4CGuxVsTr45",
+          "description": "idea 相关页面"
+        },
+        {
+          "url": "https://google.github.io/mediapipe/",
+          "description": "mediapipe 官网"
+        },
+        {
+          "url": "http://sso.tidesec.com/index.php?m=index&a=nav",
+          "description": "Tide 安全团队登录平台"
+        },
+        {
+          "url": "https://mangapanda.onl/chapter/doraemon/chapter-2",
+          "description": "哆啦 A 梦漫画章节"
+        },
+        {
+          "url": "https://kickassapp.com/",
+          "description": "Kick Ass 网站"
+        },
+        {
+          "url": "https://www.starrail.tech/teams",
+          "description": "星际和平公司官网"
+        },
+        {
+          "url": "https://github.com/Liubsyy/HotSecondsIDEA",
+          "description": "Java 远程热部署插件仓库"
+        },
+        {
+          "url": "https://cybernews.com/personal-data-leak-check/",
+          "description": "个人数据泄漏检查器"
+        },
+        {
+          "url": "https://kimi.moonshot.cn/chat/cmqvobo3r07034o1q8lg",
+          "description": "Kimi Chat"
+        },
+        {
+          "url": "https://chatglm.cn/main/detail",
+          "description": "智谱清言"
+        },
+        {
+          "url": "https://dapanyuntu.com/",
+          "description": "大盘云图网站"
+        },
+        {
+          "url": "https://kimi.moonshot.cn/chat/co93cmsascdun1dl6pt0",
+          "description": "Kimi.ai"
+        },
+        {
+          "url": "https://www.expreview.com/",
+          "description": "超能网"
+        },
+        {
+          "url": "https://yiyan.baidu.com/",
+          "description": "文心一言"
+        },
+        {
+          "url": "https://pdf2md.morethan.io/",
+          "description": "PDF 转 Markdown 工具"
+        },
+        {
+          "url": "https://huggingface.co/spaces/Dzkaka/ChatTTS",
+          "description": "Chattts Zero 页面"
+        },
+        {
+          "url": "https://av1.wtf/user",
+          "description": "薯条视频网站"
+        },
+        {
+          "url": "https://ys.mihoyo.com/cloud/#/",
+          "description": "云・原神"
+        },
+        {
+          "url": "https://sr.mihoyo.com/cloud/?from_channel=adbdsem#/",
+          "description": "云・星穹铁道"
+        },
+        {
+          "url": "https://klingai.kuaishou.com/image-to-video/32301742",
+          "description": "可灵 AI 平台"
+        }
+      ]
+    },
+    {
+      "name": "搜索",
+      "sites": [
+        {
+          "url": "https://tophub.today/",
+          "description": "今日热榜官网"
+        },
+        {
+          "url": "https://www.kuangstudy.com/course",
+          "description": "KuangStudy 课程页面"
+        },
+        {
+          "url": "https://docs.uibot.com.cn/guide/d1/",
+          "description": "UiBot 开发者指南"
+        },
+        {
+          "url": "https://github.com/sorenduan/awesome-java-books",
+          "description": "Java 开发者书籍大全仓库"
+        },
+        {
+          "url": "https://www.ituring.com.cn/",
+          "description": "图灵社区首页"
+        },
+        {
+          "url": "https://www.zhihu.com/question/52060765",
+          "description": "知乎神器 App 问题页面"
+        },
+        {
+          "url": "http://antifake.s.alibaba.com/#/",
+          "description": "假图粉碎机"
+        },
+        {
+          "url": "https://gitee.com/binghe001/technology-binghe",
+          "description": "冰河技术文章仓库"
+        },
+        {
+          "url": "https://www.felord.cn/",
+          "description": "码农小胖哥博客"
+        },
+        {
+          "url": "https://zhongrongzhao.github.io/tutirial.html",
+          "description": "鱼蛋教程页面"
+        },
+        {
+          "url": "https://www.kanxue.com/book-43-573.htm",
+          "description": "web 安全简介书籍"
+        },
+        {
+          "url": "https://zq99299.github.io/note-book2/ddd/03/08.html#%E9%A1%B9%E7%9B%AE%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF",
+          "description": "微服务设计实例文章"
+        },
+        {
+          "url": "http://www.cnblogs.com/xdpxyxy/archive/2012/11/16/2773662.html",
+          "description": "Linux 下 MySQL 操作博客"
+        },
+        {
+          "url": "https://www.cnkirito.moe/categories/Spring-Security-OAuth2/",
+          "description": "Spring Security OAuth2 分类博客"
+        },
+        {
+          "url": "https://developer.aliyun.com/article/713097?spm=a2c6h.13262185.0.0.2aa06f55blJmXF",
+          "description": "阿里云开发者社区文章"
+        },
+        {
+          "url": "https://www.yuque.com/zhangshuaiyin/guli-mall/wrbzgy",
+          "description": "学习计划语雀文档"
+        },
+        {
+          "url": "https://docs.spring.io/spring-security/site/docs/5.2.10.RELEASE/reference/html5/",
+          "description": "Spring Security 参考文档"
+        },
+        {
+          "url": "http://bestcbooks.com/",
+          "description": "计算机书籍控网站"
+        },
+        {
+          "url": "https://asmcn.icopy.site/awesome/awesome-github/",
+          "description": "GitHub 超赞合集中文网站"
+        },
+        {
+          "url": "https://wxpy.readthedocs.io/zh/latest/bot.html",
+          "description": "wxpy 机器人对象文档"
+        },
+        {
+          "url": "https://www.intel.cn/content/www/cn/zh/products/sku/205029/intel-nuc-11-performance-kit-nuc11paki7/downloads.html",
+          "description": "英特尔 NUC 下载页面"
+        },
+        {
+          "url": "https://susan.net.cn/",
+          "description": "苏三说技术博客"
+        },
+        {
+          "url": "http://www.cangbaowan.vip/",
+          "description": "藏宝湾网游单机论坛"
+        },
+        {
+          "url": "https://zh.b-ok.xyz/",
+          "description": "数字图书馆搜索网站"
+        },
+        {
+          "url": "https://www.foundpdf.com/archives/category/jsj_hlw",
+          "description": "计算机 / 互联网文档搜索"
+        },
+        {
+          "url": "https://www.jiumodiary.com/",
+          "description": "鸠摩搜索"
+        },
+        {
+          "url": "https://blog.csdn.net/significantfrank/article/details/110934799?spm=1001.2014.3001.5502",
+          "description": "COLA 4.0 博客"
+        },
+        {
+          "url": "https://blog.csdn.net/zgmu/article/details/77651498",
+          "description": "MySQL 保留关键字博客"
+        },
+        {
+          "url": "https://github.com/xingshaocheng/architect-awesome",
+          "description": "后端架构师技术图谱仓库"
+        },
+        {
+          "url": "https://github.com/jobbole/awesome-programming-books",
+          "description": "编程书籍大全仓库"
+        },
+        {
+          "url": "https://www.cupfox.com/",
+          "description": "茶杯狐电影搜索平台"
+        },
+        {
+          "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+          "description": "中国程序员易错单词仓库"
+        },
+        {
+          "url": "https://mp.weixin.qq.com/s/qy6yL2_zKgCcP5XL7eXPBA",
+          "description": "程序员缩写和专业名词文章"
+        },
+        {
+          "url": "https://www.dxdjyx.com/",
+          "description": "小象单机游戏网站"
+        },
+        {
+          "url": "https://www.zhihu.com/question/359931793/answer/927763884?utm_source=com.tencent.tim&utm_medium=social&utm_oi=819972932938915840",
+          "description": "知乎阅读技术书籍做笔记问题页面"
+        },
+        {
+          "url": "https://gitee.com/renrenio/renren-security",
+          "description": "权限系统仓库"
+        },
+        {
+          "url": "https://blog.csdn.net/ccblogger/article/details/103073693",
+          "description": "BPMN2.0 入门知识详解博客"
+        },
+        {
+          "url": "https://snailclimb.gitee.io/javaguide/#/./docs/system-design/framework/spring/spring-annotations",
+          "description": "JavaGuide"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1np4y1C7Yf?from=search&seid=8989733132604162058",
+          "description": "谷粒商城视频"
+        },
+        {
+          "url": "https://github.com/kangvcar/InfoSpider",
+          "description": "数据抓取工具仓库"
+        },
+        {
+          "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+          "description": "免费编程书籍中文仓库"
+        },
+        {
+          "url": "http://www.ireadweek.com/",
+          "description": "周读电子书下载网站"
+        },
+        {
+          "url": "https://www.javaweb.shop/article/1047.html#download-info",
+          "description": "java 相关页面"
+        },
+        {
+          "url": "http://wanyouw.com/",
+          "description": "万有导航网站"
+        },
+        {
+          "url": "http://www.yubaipan.com/#/",
+          "description": "玉白盘网盘搜索"
+        },
+        {
+          "url": "https://www.yuque.com/mo_ming/gl7b70/mcr3zv",
+          "description": "雷丰阳 - 谷粒商城语雀文档"
+        },
+        {
+          "url": "https://wangwl.net/static/projects/visualRegex#",
+          "description": "正则表达式可视化工具"
+        },
+        {
+          "url": "https://webstatic.mihoyo.com/sr/app/interactive-map/index.html?bbs_presentation_style=no_header&lang=zh-cn#/map/61?center=-28.00,-38.00&zoom=0.00&shown_types=24,17",
+          "description": "星穹铁道地图"
+        },
+        {
+          "url": "https://github.com/sechelper/kunge-cybersecurity-learning",
+          "description": "坤哥网安学习法仓库"
+        },
+        {
+          "url": "https://www.macat.vip/?cat=13&s=wallpaper",
+          "description": "马克喵壁纸搜索结果"
+        },
+        {
+          "url": "https://appstorrent.ru/",
+          "description": "macOS 游戏和程序下载站"
+        },
+        {
+          "url": "https://www.gamersky.com/tools/map/eldenring/?mapId=27",
+          "description": "艾尔登法环全收集地图"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1ww411B7CS/?buvid=XY5474E519A50AB2440FA29CE6C7B54A5B9CB&from_spmid=main.my-history.0.0&is_story_h5=false&mid=6kEkrlgG5THAWcdG2Zb4LQ%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b937e87e-0807-4276-a0fa-ef76073b0507&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1719321573&unique_k=u5leKv4&up_id=873348&vd_source=8b6df002b31704f497f249454df847d3",
+          "description": "艾尔登法环视频"
+        },
+        {
+          "url": "https://sdo.gsfc.nasa.gov/data/",
+          "description": "Solar Dynamics Observatory"
+        },
+        {
+          "url": "https://www.douyin.com/user/self?showTab=watch_later",
+          "description": "抖音用户的稍后观看页面"
+        },
+        {
+          "url": "https://docs.qq.com/sheet/DTlJHS1BuS2x5bmxV?tab=BB08J2",
+          "description": "阿里云盘影视资源文档"
+        },
+        {
+          "url": "https://www.kdocs.cn/l/cnKLlEL6qakM",
+          "description": "阿里云盘精品资源整理文档"
+        },
+        {
+          "url": "https://link3.cc/4kzy",
+          "description": "4K 资源分享链接"
+        },
+        {
+          "url": "https://www.2bt0.com/?ref=www.zjnav.com",
+          "description": "不太灵影视网站"
+        },
+        {
+          "url": "https://www.btnull.org/",
+          "description": "BTNULL 无名小站"
+        },
+        {
+          "url": "https://www.gamersky.com/tools/map/wukong/?ref=fx&pageType=pc",
+          "description": "黑神话悟空全收集地图"
+        }
+      ]
+    }
+  ]
+}
